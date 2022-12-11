@@ -1,0 +1,19 @@
+{
+  "disabled_plugins": {
+    "__class__": "set",
+    "__value__": []
+  },
+  "enabled_plugins": {
+    "__class__": "set",
+    "__value__": []
+  },
+  "filetype_mapping": {},
+  "plugin_customization": {},
+  "plugins": {
+    "CalibreSpy": "/home/gas/.config/calibre/plugins/CalibreSpy.zip",
+    "Count Pages": "/home/gas/.config/calibre/plugins/Count Pages.zip",
+    "Goodreads": "/home/gas/.config/calibre/plugins/Goodreads.zip",
+    "Job Spy": "/home/gas/.config/calibre/plugins/Job Spy.zip",
+    "Quality Check": "/home/gas/.config/calibre/plugins/Quality Check.zip"
+  }
+}

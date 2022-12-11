@@ -1,0 +1,4 @@
+player=download
+subs_language=English
+video_quality=auto
+preferred_server=vidcloud

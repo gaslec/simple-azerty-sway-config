@@ -1,0 +1,29 @@
+{
+  "add books dialog dir": "/home/gas/Downloads",
+  "add books dialog dir-last-used-filter-spec-all-files": false,
+  "catalogs_to_be_synced": {
+    "__class__": "set",
+    "__value__": []
+  },
+  "s_r_search_mode": 0,
+  "sort_history": [
+    [
+      "authors",
+      true
+    ],
+    [
+      "title",
+      true
+    ],
+    [
+      "authors",
+      true
+    ],
+    [
+      "timestamp",
+      false
+    ]
+  ],
+  "welcome_wizard_device": "kindle_voyage",
+  "welcome_wizard_was_run": true
+}

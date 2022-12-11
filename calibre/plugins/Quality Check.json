@@ -1,0 +1,11 @@
+{
+  "options": {
+    "authorInitialsMode": "A.B.",
+    "hiddenMenus": [],
+    "maxTagExclusions": [
+      ""
+    ],
+    "maxTags": 5,
+    "searchScope": "Library"
+  }
+}
