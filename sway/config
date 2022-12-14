@@ -18,10 +18,13 @@ set $menu dmenu_path | dmenu | xargs swaymsg exec --
 
 include /etc/sway/config-vars.d/*
 
+### Wallpaper
+
+#output * bg /path/to/file.jpg fill
+
 ### Output configuration
 #
 # Default wallpaper (more resolutions are available in /usr/share/backgrounds/sway/)
-output * bg /home/gas/Pictures/Wallpapers/Nausicaa_1920x1080.jpg fill
 #
 # Example configuration:
 #
